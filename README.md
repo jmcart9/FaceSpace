@@ -6,6 +6,6 @@ Features: GUI and CLI. Users can create profiles demographic information. Users 
 
 Technologies: Java 11, Swing, AWT, JSmooth.
 
-How to use: To use GUI, just execute `Facespace.jar`. To use CLI, compiles and run `Facespace.java`.
+How to use: To use GUI, just execute `Facespace.jar`. To use CLI, compile and run `Facespace.java`.
 
  
